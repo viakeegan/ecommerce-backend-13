@@ -42,8 +42,8 @@ To connect to the database:
 ## Usage
 The app allows the user to view, add, edit, and delete categories, products, and tags.</br>
 
-Video showing MySQL walk through via [GeForce Experience](https://drive.google.com/file/d/1Ra--oaesanKtlcCeHPw5rQIYPSiWIHUl/view)<br>
-Video walk through of the API routes and Insomnia via [GeForce Experience](https://drive.google.com/file/d/10SBAJdQ2QzU-vUTpl44zhLU5Fr9n9mzT/view)<br>
+Video showing MySQL walk through via [YouTube](https://youtu.be/yWk1THOSCJw)<br>
+Video walk through of the API routes and Insomnia via [YouTube](https://youtu.be/t_z6S38f9HM)<br>
 
 ## License 
 This project is license under MIT
